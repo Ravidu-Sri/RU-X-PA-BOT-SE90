@@ -15,7 +15,7 @@
 npm i -g forever && forever index.js && forever save && forever logs
 ```
 <br>
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+##```𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 🗣️```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 <br> 
 <p align="center">
  <a href="https://wa.me/+94723423602?text=𝑯𝒆𝒚_𝑻𝒉𝒖𝒅𝒖❣️🐰"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
