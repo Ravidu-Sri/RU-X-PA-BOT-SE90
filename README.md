@@ -18,3 +18,7 @@
 <p align="center">
 <img alt="Development" width="400" src="https://media2.giphy.com/media/9WC8WTZsFxkRi/giphy.gif?cid=6c09b9523l8k1f099k9c2fsysftvpdw3meyzewyumqdzctsc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g?cid=6c09b952fmzfasokm01ng67l5ig3ggionj011ykg4tyyq24j&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=v?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+- If you want Command For 24/7 (might no work) 
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
