@@ -1,4 +1,4 @@
-#RU-X-PA-MD
+#RU-X-PA-MD#
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://telegra.ph/file/4d69c1e11007840a8c048.jpg"/> 
