@@ -18,13 +18,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
-<h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
-
-- [Download ffmpeg](https://ffmpeg.org/download.html#build-windows) and set the path
-- [Download wget](https://eternallybored.org/misc/wget/releases/) and set the path
-- [Download Node.js](https://nodejs.org/en/download/)
-- [Download Git](https://git-scm.com/downloads)
-- [Download Libwebp](https://developers.google.com/speed/webp/download),
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
