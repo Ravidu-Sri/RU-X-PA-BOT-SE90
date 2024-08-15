@@ -10,53 +10,6 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# Termux Deployment
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
-```
-cd Venom-2
-```
-```
-yarn install
-```
-```
-npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - If you want Command For 24/7 (might no work) 
 ```js
 npm i -g forever && forever index.js && forever save && forever logs
