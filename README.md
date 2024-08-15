@@ -21,5 +21,5 @@
 ```js
 npm i -g forever && forever index.js && forever save && forever logs
 ```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://media1.giphy.com/media/jsUXu7umQRFqU/giphy.gif?cid=6c09b952c4pge6z1cf23c25b6008qmpoffmzvvwr2flg6qxn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'/></a>
 
