@@ -10,7 +10,7 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 <br>
- <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-25D366?style=for-the-red&logo=p&logoColor=ff000000" />
+ <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-25D366?style=for-the-badge&logo=p&logoColor=ff000000" />
   
 ## ```𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 🗣️```
 <br>
