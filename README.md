@@ -24,3 +24,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
+  <button onclick="window.open(`/wasiqr`)" class="btn">QR Code</button>
+  <button onclick="window.open(`/pair`)" class="btn">Pair Code</button>
+  <button onclick="window.open(`https://github.com/Ravidu-Sri/RUXPABOT`)" class="btn">Bot Repo</button>
