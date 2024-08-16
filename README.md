@@ -10,9 +10,9 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 <br>
- <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/ℙ𝔸𝕀ℝ_ℂ𝕆𝔻𝔼-00FFFF?style=for-the-badge&logo=orcode&logoColor=ff000000" />
+ 1️⃣ <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/ℙ𝔸𝕀ℝ_ℂ𝕆𝔻𝔼-00FFFF?style=for-the-badge&logo=orcode&logoColor=ff000000" />
   <br>
- # •1 <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/ℙ𝔸𝕀ℝ_ℂ𝕆𝔻𝔼-00FFFF?style=for-the-badge&logo=orcode&logoColor=ff000000" />
+ 2️⃣ <a href="https://ru-x-pa-session-id.onrender.com"><img src="https://img.shields.io/badge/ℙ𝔸𝕀ℝ_ℂ𝕆𝔻𝔼-00FFFF?style=for-the-badge&logo=orcode&logoColor=ff000000" />
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
